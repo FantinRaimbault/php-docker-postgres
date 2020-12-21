@@ -1,0 +1,9 @@
+{
+    "[php]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+    "php-cs-fixer.lastDownload": 1604585467326,
+    "php-cs-fixer.config": "../config.php"
+}
